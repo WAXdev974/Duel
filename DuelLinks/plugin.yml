@@ -1,0 +1,13 @@
+---
+name: DuelLinks
+version: 1.0.0
+main: wax_dev\DuelLinks\Main
+api: 5.15.0
+author: wax_dev
+src-namespace-prefix: wax_dev\DuelLinks
+
+
+permissions:
+  duel.cmd:
+    default: true
+...
